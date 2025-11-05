@@ -1,0 +1,40 @@
+{
+    "cards": {
+        "todayInvoices": { "title": "Today Invoices", "value": 9, "change": "+9", "color": "#2563EB" },
+        "monthInvoices": { "title": "This Month Invoices", "value": 12, "change": "+12", "color": "#DB2777" },
+        "todaySales": { "title": "Today Sales", "value": 6774.15, "change": "+$6,774.15", "color": "#F97316" },
+        "monthSales": { "title": "This Month Sales", "value": 8173.89, "change": "+$8,173.89", "color": "#059669" }
+    },
+
+    "charts": {
+      "incomeExpense": [
+        { "date": "27 Oct", "income": 6400, "expenses": 1200 },
+        { "date": "28 Oct", "income": 2100, "expenses": 800 },
+        { "date": "29 Oct", "income": 3100, "expenses": 900 },
+        { "date": "30 Oct", "income": 1800, "expenses": 400 },
+        { "date": "31 Oct", "income": 2000, "expenses": 200 },
+        { "date": "1 Nov", "income": 2200, "expenses": 600 },
+        { "date": "2 Nov", "income": 3400, "expenses": 950 },
+        { "date": "3 Nov", "income": 4700, "expenses": 1000 },
+        { "date": "4 Nov", "income": 5900, "expenses": 1200 },
+        { "date": "5 Nov", "income": 6800, "expenses": 1300 }
+      ],
+      "incomeVsExpenses": { "income": 2145.79, "expenses": 0, "profit": 3335, "revenue": 5411.85 }
+    },
+    "recentBuyers": [
+      { "name": "Walk-in Client", "status": "Paid", "amount": 10649.50 },
+      { "name": "Wyatan Spilsted", "status": "Due", "amount": 5901.45 },
+      { "name": "Aeriell Blaxill", "status": "Paid", "amount": 854.70 },
+      { "name": "Morganne Rignoldes", "status": "Paid", "amount": 1265.29 },
+      { "name": "Stefan Harvie", "status": "Partial", "amount": 2688.25 },
+      { "name": "Wilbur Brumen", "status": "Paid", "amount": 1130.27 }
+    ],
+    "recentInvoices": [
+      { "invoice": "POS #1021", "customer": "Walk-in Client", "status": "Due", "due": "05-11-2025", "amount": 795.46 },
+      { "invoice": "POS #1020", "customer": "Walk-in Client", "status": "Paid", "due": "05-11-2025", "amount": 885.93 },
+      { "invoice": "POS #1019", "customer": "Walk-in Client", "status": "Paid", "due": "05-11-2025", "amount": 1258.86 },
+      { "invoice": "POS #1018", "customer": "Walk-in Client", "status": "Partial", "due": "05-11-2025", "amount": 499.90 },
+      { "invoice": "POS #1017", "customer": "Walk-in Client", "status": "Due", "due": "04-11-2025", "amount": 1030.12 }
+    ]
+  }
+  
